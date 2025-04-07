@@ -1,0 +1,11 @@
+{
+  "name": "gradual-nuke-destruction",
+  "version": "1.0.0",
+  "title": "Gradual Nuke Destruction",
+  "author": "PickledCow",
+  "contact": "factorio@joon.id.au",
+  "factorio_version": "2.0",
+  "space_travel_required": true,
+  "dependencies": ["base >= 2.0", "space-age >= 1.0.0"],
+  "description": "Adjusts Vulcanus, Aquilo, and space platform nuke tile destruction to be done over time rather than instantly."
+}
